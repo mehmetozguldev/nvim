@@ -3,5 +3,5 @@
 Personal Neovim configuration.
 
 ```bash
-git clone https://github.com/mehmetozguldev/neovim.git ~/.config/nvim
+git clone https://github.com/mehmetozguldev/nvim.git ~/.config/nvim
 ```
